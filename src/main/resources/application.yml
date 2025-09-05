@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: boardpjt
+
+  profiles:
+    active : dev
